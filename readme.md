@@ -1,0 +1,1 @@
+A collection of simple javascript functions for different purposes
